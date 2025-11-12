@@ -35,5 +35,3 @@
 ---
 
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/2k6ayush/2k6ayush/raw/output/snake.svg)
